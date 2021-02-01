@@ -7,6 +7,27 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&theme=radical)
 
 ![image](https://forthebadge.com/images/badges/built-with-love.svg)
+![image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
+![image](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
+![image](https://forthebadge.com/images/badges/built-with-swag.svg)
+![image](https://forthebadge.com/images/badges/made-with-python.svg)
+![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
+![image](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![image](https://forthebadge.com/images/badges/makes-people-smile.svg)
+![image](https://forthebadge.com/images/badges/for-robots.svg)
+![image](https://forthebadge.com/images/badges/it-works-why.svg)
+![image](https://forthebadge.com/images/badges/powered-by-coders-sweat.svg)
+![image](https://forthebadge.com/images/badges/powered-by-oxygen.svg)
+![image](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)
+![image](https://forthebadge.com/images/badges/powered-by-water.svg)
+![image](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)
+![image](https://forthebadge.com/images/badges/uses-brains.svg)
+![image](https://forthebadge.com/images/badges/uses-html.svg)
+![image](https://forthebadge.com/images/badges/uses-css.svg)
+![image](https://forthebadge.com/images/badges/uses-js.svg)
+![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)-->
+
+<!--![image](https://forthebadge.com/images/badges/built-with-love.svg)
 ![image](https://forthebadge.com/images/badges/built-by-developers.svg)
 ![image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
 ![image](https://forthebadge.com/images/badges/contains-breadcrumbs.svg)
@@ -44,7 +65,7 @@
 ![image](https://forthebadge.com/images/badges/uses-css.svg)
 ![image](https://forthebadge.com/images/badges/uses-js.svg)
 ![image](https://forthebadge.com/images/badges/validated-html5.svg)
-![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)
+![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)-->
 
 ### 🔭 I’m currently working on:
 HTML, CSS, Python, Ruby, SQL
