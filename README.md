@@ -73,12 +73,14 @@
 HTML, CSS, Python, MicroPython, Ruby, SQL, Microsoft MakeCode, Tynker, Scratch
 ### 🌱 I’m currently learning:
 Java, JavaScript, PHP, Docker, Swift, React + Redux, Machine Learning, jQuery
+<!--
 ### 👯 I’m looking to collaborate on
-Nothing yet!
+Nothing yet! ¯\_(ツ)_/¯
 ### 🤔 I’m looking for help with
-Nothing yet!
+Nothing yet! ¯\_(ツ)_/¯
 ### 💬 Ask me about
 Coding, specifically languages that I know
+-->
 ### 📫 How to reach me
 ![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver)
