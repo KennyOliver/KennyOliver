@@ -26,3 +26,14 @@ fruit: 🍓;
 }
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
+[![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=social)](https://github.com/KennyOliver)
+<br>
+[![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-red?style=flat&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
+
+<!--![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/USER/REPOSITORY?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/USER/REPOSITORY?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/USER/REPOSITORY?color=red&style=plastic)-->
