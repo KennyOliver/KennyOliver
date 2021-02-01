@@ -1,4 +1,4 @@
-## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Kenny! ;D
+## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My name is Kenny! :octocat:
 
 <!-- **KennyOliver/KennyOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -15,22 +15,29 @@
 <!--![image](https://forthebadge.com/images/badges/it-works-why.svg)-->
 
 
-### 🔭 I’m currently working on:
+### :computer: Languages I know 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-Microsoft MakeCode, Tynker, Scratch
-### 🌱 I’m currently learning:
-Docker, Machine Learning
+![image](https://img.shields.io/badge/MakeCode-00FF00?style=for-the-badge&logo=MakeCode&logoColor=white)
+![image](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white)
+![image](https://img.shields.io/badge/Tynker-FF0000?style=for-the-badge&logo=tynker&logoColor=white)
+
+### :telescope: I’m currently working on:
+GCSEs!!!
+
+### :seedling: I’m currently learning:
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![image](https://img.shields.io/badge/Docker-0492C2?style=for-the-badge&logo=docker&logoColor=white)
+
 <!--
 ### 👯 I’m looking to collaborate on
 Nothing yet! ¯\_(ツ)_/¯
@@ -39,14 +46,14 @@ Nothing yet! ¯\_(ツ)_/¯
 ### 💬 Ask me about
 Coding, specifically languages that I know
 -->
-### 📫 How to reach me
+### :mailbox_with_mail: How to reach me
 ![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver)
 <br>
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-ff0000?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
-### ⚡️ Fun facts...
+### :zap: Fun facts...
 ```
-favorites = {color: ❤️; animal: 🐞; fruit: 🍓;}
+favorites = {color: ❤️; animal: 🐞; fruit: 🍓; instrument: 🎻;}
 machine = "iPad Pro 2020"
 phoneOS = "iOS"
 IDE = "repl.it"
