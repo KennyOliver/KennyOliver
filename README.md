@@ -79,12 +79,12 @@ Nothing yet!
 Nothing yet!
 ### 💬 Ask me about
 Coding, specifically Python, HTML, CSS, etc.
-### 📫 How to reach me:
+### 📫 How to reach me
 ![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=social)](https://github.com/KennyOliver)
 <br>
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-ff0000?style=flat&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
-### ⚡️ Fun fact..
+### ⚡️ Fun fact...
 ```
 favorites = {color: ❤️; animal: 🐞; fruit: 🍓;}
 ```
