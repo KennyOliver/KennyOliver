@@ -85,7 +85,9 @@ Coding, specifically Python, HTML, CSS, etc.
 <br>
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-ff0000?style=flat&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
 ### ⚡️ Fun fact..
-favorites {color: ❤️; animal: 🐞; fruit: 🍓;}
+```
+favorites = {color: ❤️; animal: 🐞; fruit: 🍓;}
+```
 
 
 <!--![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
