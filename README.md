@@ -70,7 +70,7 @@
 ![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)-->
 
 ### 🔭 I’m currently working on:
-HTML, CSS, Python, MicroPython, Ruby, SQL
+HTML, CSS, Python, MicroPython, Ruby, SQL, Microsoft MakeCode, Tynker, Scratch
 ### 🌱 I’m currently learning:
 Java, JavaScript, PHP, Docker, Swift, React + Redux, Machine Learning, jQuery
 ### 👯 I’m looking to collaborate on
@@ -78,7 +78,7 @@ Nothing yet!
 ### 🤔 I’m looking for help with
 Nothing yet!
 ### 💬 Ask me about
-Coding, specifically Python, HTML, CSS, etc.
+Coding, specifically languages that I know
 ### 📫 How to reach me
 ![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver)
