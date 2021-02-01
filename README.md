@@ -72,16 +72,15 @@ Nothing yet!
 ### 🤔 I’m looking for help with
 Nothing yet!
 ### 💬 Ask me about
-Coding
+Coding, specifically Python, HTML, CSS, etc.
 ### 📫 How to reach me:
-Use my email
-### ⚡️ Fun fact..
-favorites {color: ❤️; animal: 🐞; fruit: 🍓;}
-
 ![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=social)](https://github.com/KennyOliver)
 <br>
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-ff0000?style=flat&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
+### ⚡️ Fun fact..
+favorites {color: ❤️; animal: 🐞; fruit: 🍓;}
+
 
 <!--![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
