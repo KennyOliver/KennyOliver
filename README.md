@@ -22,9 +22,9 @@
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![image](https://img.shields.io/badge/MakeCode-00FF00?style=for-the-badge&logo=MakeCode&logoColor=white)
+![image](https://img.shields.io/badge/MS%20MakeCode-00CC00?style=for-the-badge&logo=microsoft&logoColor=white)
 ![image](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white)
-![image](https://img.shields.io/badge/Tynker-FF0000?style=for-the-badge&logo=tynker&logoColor=white)
+![image](https://img.shields.io/badge/Tynker-FF0000?style=for-the-badge&logo=&logoColor=white)
 
 ### :telescope: I’m currently working on:
 GCSEs!!!
@@ -53,7 +53,12 @@ Coding, specifically languages that I know
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-ff0000?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
 ### :zap: Fun facts...
 ```
-favorites = {color: ❤️; animal: 🐞; fruit: 🍓; instrument: 🎻;}
+favorites = {
+  color: ❤️;
+  animal: 🐞;
+  fruit: 🍓;
+  instrument: 🎻;
+}
 machine = "iPad Pro 2020"
 phoneOS = "iOS"
 IDE = "repl.it"
