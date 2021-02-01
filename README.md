@@ -7,6 +7,24 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&theme=radical)
 
 ![image](https://forthebadge.com/images/badges/built-with-love.svg)
+![image](https://forthebadge.com/images/badges/made-with-python.svg)
+![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
+![image](https://forthebadge.com/images/badges/made-with-javascript.svg)
+![image](https://forthebadge.com/images/badges/made-with-swift.svg)
+![image](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+![image](https://forthebadge.com/images/badges/makes-people-smile.svg)
+![image](https://forthebadge.com/images/badges/powered-by-oxygen.svg)
+![image](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)
+![image](https://forthebadge.com/images/badges/powered-by-water.svg)
+![image](https://forthebadge.com/images/badges/powered-by-flux-capacitor.svg)
+![image](https://forthebadge.com/images/badges/powered-by-jeffs-keyboard.svg)
+![image](https://forthebadge.com/images/badges/uses-badges.svg)
+![image](https://forthebadge.com/images/badges/uses-brains.svg)
+![image](https://forthebadge.com/images/badges/uses-html.svg)
+![image](https://forthebadge.com/images/badges/uses-css.svg)
+![image](https://forthebadge.com/images/badges/uses-js.svg)
+![image](https://forthebadge.com/images/badges/validated-html5.svg)
+![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)
 
 ### 🔭 I’m currently working on:
 HTML, CSS, Python, Ruby, SQL
