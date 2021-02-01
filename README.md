@@ -64,9 +64,9 @@
 ![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)-->
 
 ### 🔭 I’m currently working on:
-HTML, CSS, Python, Ruby, SQL
+HTML, CSS, Python, MicroPython, Ruby, SQL
 ### 🌱 I’m currently learning:
-Java, JavaScript, PHP, Docker, Swift
+Java, JavaScript, PHP, Docker, Swift, React + Redux, Machine Learning, jQuery
 ### 👯 I’m looking to collaborate on
 Nothing yet!
 ### 🤔 I’m looking for help with
