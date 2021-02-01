@@ -7,6 +7,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&theme=radical)
 
 ![image](https://forthebadge.com/images/badges/built-with-love.svg)
+![image](https://forthebadge.com/images/badges/built-with-developers.svg)
+![image](https://forthebadge.com/images/badges/built-with-swag.svg)
+![image](https://forthebadge.com/images/badges/built-with-resentment.svg)
+![image](https://forthebadge.com/images/badges/built-with-science.svg)
+![image](https://forthebadge.com/images/badges/ages-12.svg)
+![image](https://forthebadge.com/images/badges/built-for-android.svg)
 ![image](https://forthebadge.com/images/badges/made-with-python.svg)
 ![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
 ![image](https://forthebadge.com/images/badges/made-with-javascript.svg)
