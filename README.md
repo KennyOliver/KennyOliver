@@ -38,12 +38,8 @@ Nothing yet!
 Coding
 ### 📫 How to reach me:
 Use my email
-### ⚡️ Fun fact: ...
- favorites {
-color: ❤️;
-animal: 🐞;
-fruit: 🍓;
-}
+### ⚡️ Fun fact..
+favorites {color: ❤️; animal: 🐞; fruit: 🍓;}
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=social)](https://github.com/KennyOliver)
