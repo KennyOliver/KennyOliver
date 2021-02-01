@@ -24,7 +24,7 @@
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/MS%20MakeCode-00CC00?style=for-the-badge&logo=microsoft&logoColor=white)
 ![image](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white)
-![image](https://img.shields.io/badge/Tynker-FF0000?style=for-the-badge&logo=&logoColor=white)
+![image](https://img.shields.io/badge/Tynker-DD0000?style=for-the-badge&logo=&logoColor=white)
 
 ### :telescope: I’m currently working on:
 GCSEs!!!
