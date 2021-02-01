@@ -1,10 +1,9 @@
 ## Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## My name is Kenny! ;D
 
-<!--
-**KennyOliver/KennyOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **KennyOliver/KennyOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started: -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&theme=radical)
 
 ### 🔭 I’m currently working on:
 HTML, CSS, Python, Ruby, SQL
@@ -26,4 +25,4 @@ fruit: 🍓;
 }
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&theme=tokyonight)
+
