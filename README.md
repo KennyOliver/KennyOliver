@@ -6,6 +6,8 @@
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&theme=radical)
 
+![image](https://forthebadge.com/images/badges/built-with-love.svg)
+
 ### 🔭 I’m currently working on:
 HTML, CSS, Python, Ruby, SQL
 ### 🌱 I’m currently learning:
