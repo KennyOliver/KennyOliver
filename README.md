@@ -6,7 +6,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical&bg_color=60,12b035,06abd4&title_color=333333&text_color=dddddd&icon_color=eeeeee)
 <br>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&bg_color=60,12b035,06abd4&title_color=333333&text_color=dddddd&icon_color=eeeeee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8&bg_color=60,12b035,06abd4&title_color=333333&text_color=dddddd&icon_color=eeeeee)
 
 <!--![image](https://forthebadge.com/images/badges/built-with-love.svg)-->
 ![image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
