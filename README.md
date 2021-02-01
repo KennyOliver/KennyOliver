@@ -7,19 +7,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical)
 
 ![image](https://forthebadge.com/images/badges/built-with-love.svg)
-![image](https://forthebadge.com/images/badges/built-with-swag.svg)
+<!--![image](https://forthebadge.com/images/badges/built-with-swag.svg)-->
 ![image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
-![image](https://forthebadge.com/images/badges/made-with-python.svg)
+<!--![image](https://forthebadge.com/images/badges/made-with-python.svg)-->
 ![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
 ![image](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![image](https://forthebadge.com/images/badges/it-works-why.svg)
-![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)
-![image](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)
+<!--![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)-->
+<!--![image](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)
 ![image](https://forthebadge.com/images/badges/powered-by-water.svg)
 ![image](https://forthebadge.com/images/badges/uses-brains.svg)
 ![image](https://forthebadge.com/images/badges/uses-html.svg)
 ![image](https://forthebadge.com/images/badges/uses-css.svg)
-![image](https://forthebadge.com/images/badges/uses-js.svg)
+![image](https://forthebadge.com/images/badges/uses-js.svg)-->
 
 <!--![image](https://forthebadge.com/images/badges/built-with-love.svg)
 ![image](https://forthebadge.com/images/badges/built-by-developers.svg)
@@ -79,7 +79,7 @@ favorites {color: ❤️; animal: 🐞; fruit: 🍓;}
 ![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=social)](https://github.com/KennyOliver)
 <br>
-[![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-red?style=flat&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
+[![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-ff0000?style=flat&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
 
 <!--![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
