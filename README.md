@@ -16,9 +16,21 @@
 
 
 ### 🔭 I’m currently working on:
-HTML, CSS, Python, MicroPython, Ruby, SQL, Microsoft MakeCode, Tynker, Scratch
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+Microsoft MakeCode, Tynker, Scratch
 ### 🌱 I’m currently learning:
-Java, JavaScript, PHP, Docker, Swift, React + Redux, Machine Learning, jQuery
+Docker, Machine Learning
+![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 <!--
 ### 👯 I’m looking to collaborate on
 Nothing yet! ¯\_(ツ)_/¯
@@ -32,9 +44,12 @@ Coding, specifically languages that I know
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver)
 <br>
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-ff0000?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
-### ⚡️ Fun fact...
+### ⚡️ Fun facts...
 ```
 favorites = {color: ❤️; animal: 🐞; fruit: 🍓;}
+machine = "iPad Pro 2020"
+phoneOS = "iOS"
+IDE = "repl.it"
 ```
 
 
