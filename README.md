@@ -24,3 +24,5 @@ color: ❤️;
 animal: 🐞;
 fruit: 🍓;
 }
+
+![](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
