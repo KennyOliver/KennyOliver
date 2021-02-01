@@ -8,15 +8,21 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&bg_color=60,12b035,06abd4&title_color=333333&text_color=dddddd&icon_color=eeeeee)
 
-![image](https://forthebadge.com/images/badges/built-with-love.svg)
-<!--![image](https://forthebadge.com/images/badges/built-with-swag.svg)-->
+<!--![image](https://forthebadge.com/images/badges/built-with-love.svg)-->
 ![image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
-<!--![image](https://forthebadge.com/images/badges/made-with-python.svg)-->
+![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
+![image](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
+<!--![image](https://forthebadge.com/images/badges/it-works-why.svg)-->
+
+<!--![image](https://forthebadge.com/images/badges/built-with-love.svg)
+![image](https://forthebadge.com/images/badges/built-with-swag.svg)
+![image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
+![image](https://forthebadge.com/images/badges/made-with-python.svg)
 ![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
 ![image](https://forthebadge.com/images/badges/powered-by-black-magic.svg)
 ![image](https://forthebadge.com/images/badges/it-works-why.svg)
-<!--![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)-->
-<!--![image](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)
+![image](https://forthebadge.com/images/badges/works-on-my-machine.svg)
+![image](https://forthebadge.com/images/badges/powered-by-pull-requests.svg)
 ![image](https://forthebadge.com/images/badges/powered-by-water.svg)
 ![image](https://forthebadge.com/images/badges/uses-brains.svg)
 ![image](https://forthebadge.com/images/badges/uses-html.svg)
