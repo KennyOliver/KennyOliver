@@ -26,7 +26,7 @@
 | ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) | ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
 | ![image](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white) | ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) |
 | ![image](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white) | ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| ![image](https://img.shields.io/badge/Tynker-DD0000?style=for-the-badge&logo=data:https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1464574274/whsf628fmy1db4zjnopw.png/png&logoColor=white) |  |
+| ![image](https://img.shields.io/badge/Tynker-DD0000?style=for-the-badge&logo=data:res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1464574274/whsf628fmy1db4zjnopw.png/png&logoColor=white) |  |
 
 <!--| :computer: Languages I know | :seedling: I'm learning |
 | --------------------------- | ----------------------- |
