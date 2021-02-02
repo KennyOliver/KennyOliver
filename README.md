@@ -53,7 +53,7 @@ favorites = {
 }
 machine = "iPad Pro 2020"
 phoneOS = "iOS"
-IDE = "repl.it"
+IDE = "Atom + repl.it"
 
 ```
 
