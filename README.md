@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> My name is Kenny! :octocat:
+# Hi, my name is Kenny! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <br> I'm 15, and I'm currently doing my GCSEs
 
 <!-- **KennyOliver/KennyOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -10,8 +10,7 @@
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver)
-<br>
-[![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-ff0000?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
+[![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
 
 <!--[image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
 ![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
@@ -25,9 +24,9 @@
 | ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) |
 | ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) | ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
-| ![image](https://img.shields.io/badge/micro:bit-00CC00?style=for-the-badge&logo=microbit&logoColor=white) | ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) |
+| ![image](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white) | ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) |
 | ![image](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white) | ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) |
-| ![image](https://img.shields.io/badge/Tynker-DD0000?style=for-the-badge&logo=&logoColor=white) |  |
+| ![image](https://img.shields.io/badge/Tynker-DD0000?style=for-the-badge&logo=data:https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1464574274/whsf628fmy1db4zjnopw.png/png&logoColor=white) |  |
 
 <!--| :computer: Languages I know | :seedling: I'm learning |
 | --------------------------- | ----------------------- |
@@ -41,10 +40,6 @@
 | Scratch |  |
 | Tynker |  |-->
 
-### :telescope: I’m currently working on:
-GCSEs!!!
-
-### :zap: Fun facts...
 ```python
 favorites = {
   color: red;
@@ -52,16 +47,6 @@ favorites = {
   instrument: [piano, violin, viola, flute, guitar, ukulele];
 }
 machine = "iPad Pro 2020"
-phoneOS = "iOS"
+phone_OS = "iOS"
 IDE = "Atom + repl.it"
-
 ```
-
-
-<!--![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
-![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
-![GitHub repo size](https://img.shields.io/github/repo-size/USER/REPOSITORY?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/USER/REPOSITORY?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/USER/REPOSITORY?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/USER/REPOSITORY?color=red&style=plastic)-->
