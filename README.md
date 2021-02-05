@@ -34,7 +34,7 @@
 |  | ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
-|  | ![image](https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=c%23&logoColor=white) |
+|  | ![image](https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=c#&logoColor=white) |
 
 <!--| :computer: Languages I know | :seedling: I'm learning |
 | --------------------------- | ----------------------- |
