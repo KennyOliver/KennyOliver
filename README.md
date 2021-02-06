@@ -17,7 +17,7 @@
 ![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
 ![image](https://forthebadge.com/images/badges/powered-by-black-magic.svg)-->
 
-| :computer: Languages I Know | :thinking: Other Things |
+| :computer: Languages | :thinking: Other Things |
 | :-------------------------: | :---------------------: |
 | ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) |
 | ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![image](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white) |
@@ -25,7 +25,7 @@
 | ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | ![image](https://img.shields.io/badge/Tynker-DD0000?style=for-the-badge&logo=data:res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1464574274/whsf628fmy1db4zjnopw.png/png&logoColor=white) |
 | ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) |  |
 
-| :seedling: I'm Learning | :thought_balloon: I Hope To Learn |
+| :seedling: Learning | :thought_balloon: Hope To Learn |
 | :---------------------: | :-------------------------------: |
 | ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
 | ![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) |
