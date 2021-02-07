@@ -1,5 +1,5 @@
 # Hi, my name is Kenny! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## I'm 15, and I'm currently doing my GCSEs
+## I'm 15, and am currently doing my GCSEs
 
 <!-- **KennyOliver/KennyOliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
