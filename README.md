@@ -12,7 +12,9 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver)
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
+
 [![Website Link](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
+[![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-181717?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
 
 <!--[image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
 ![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
