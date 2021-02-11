@@ -9,8 +9,8 @@
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8&bg_color=60,12b035,06abd4&title_color=333333&text_color=dddddd&icon_color=eeeeee)
 
-<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver) -->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=KennyOliver.KennyOliver)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
+<!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KennyOliver.KennyOliver) -->
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver)
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
 
