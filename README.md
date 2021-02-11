@@ -1,5 +1,5 @@
 # Hi, I'm Kenny! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## I'm 15, and am currently doing my GCSEs
+## I'm 15, and am currently doing my GCSEs :crossed_fingers:
 ----------
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical&bg_color=60,12b035,06abd4&title_color=333333&text_color=dddddd&icon_color=eeeeee)
