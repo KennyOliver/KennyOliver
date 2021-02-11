@@ -5,7 +5,7 @@
 <br>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8&bg_color=60,12b035,06abd4&title_color=333333&text_color=dddddd&icon_color=eeeeee)
-----------
+
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KennyOliver.KennyOliver) -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver)
@@ -17,7 +17,7 @@
 <!--[image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
 ![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
 ![image](https://forthebadge.com/images/badges/powered-by-black-magic.svg)-->
-----------
+
 | :computer: Languages | :thinking: Other Things |
 | :-------------------------: | :---------------------: |
 | ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) |
@@ -36,7 +36,7 @@
 |  | ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white) |
-----------
+
 ```python
 # ABOUT ME
 favorites = {
