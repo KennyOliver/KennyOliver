@@ -31,6 +31,7 @@
 |  | ![image](https://img.shields.io/badge/Microsoft%20Access-A4374A?style=for-the-badge&logo=microsoft%20access&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white) |
+|  | ![image](https://img.shields.io/badge/Atom-6659CC?style=for-the-badge&logo=atom&logoColor=white) |
 
 | :seedling: Learning | :thought_balloon: Hope To Learn |
 | :---------------------: | :-------------------------------: |
@@ -42,6 +43,7 @@
 |  | ![image](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white) |
+|  | ![image](https://img.shields.io/badge/Node%2Ejs-339933?style=for-the-badge&logo=node%2Ejs&logoColor=white) |
 
 ```python
 # ABOUT ME
