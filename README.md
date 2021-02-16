@@ -29,6 +29,8 @@
 |  | ![image](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft%20powerpoint&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Microsoft%20Access-A4374A?style=for-the-badge&logo=microsoft%20access&logoColor=white) |
+|  | ![image](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
+|  | ![image](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white) |
 
 | :seedling: Learning | :thought_balloon: Hope To Learn |
 | :---------------------: | :-------------------------------: |
