@@ -23,9 +23,7 @@
 | ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![image](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white) |
 | ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![image](https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white) |
 | ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | ![image](https://img.shields.io/badge/Tynker-DD0000?style=for-the-badge&logo=data:res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1464574274/whsf628fmy1db4zjnopw.png/png&logoColor=white) |
-| ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![image](https://img.shields.io/badge/Microsoft%20Word-2B579A?style=for-the-badge&logo=microsoft%20word&logoColor=white) |
-|  | ![image](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white) |
-|  | ![image](https://img.shields.io/badge/Microsoft%20PowerPoint-B7472A?style=for-the-badge&logo=microsoft%20powerpoint&logoColor=white) |
+| ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![image](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft%20office&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Microsoft%20Access-A4374A?style=for-the-badge&logo=microsoft%20access&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white) |
