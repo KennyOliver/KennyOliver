@@ -27,7 +27,7 @@
 | ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![image](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft%20office&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Microsoft%20Access-A4374A?style=for-the-badge&logo=microsoft%20access&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-|  | ![image](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=white) |
+|  | ![image](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) |
 |  | ![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white) |
 
 | :seedling: Learning | :thought_balloon: Considering | :coffin: Graveyard |
