@@ -13,6 +13,7 @@
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
 
 [![Website Link](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
+[![Organised Repositories](https://img.shields.io/badge/Organised%20Repositories-181717?style=for-the-badge&logo=gitbook&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
 [![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-181717?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
 
 ---
