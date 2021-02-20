@@ -15,9 +15,7 @@
 [![Website Link](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
 [![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-181717?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
 
-<!--[image](https://forthebadge.com/images/badges/contains-tasty-spaghetti-code.svg)
-![image](https://forthebadge.com/images/badges/made-with-markdown.svg)
-![image](https://forthebadge.com/images/badges/powered-by-black-magic.svg)-->
+---
 
 | :computer: Languages | :thinking: Other Things |
 | :-------------------------: | :---------------------: |
@@ -44,6 +42,8 @@
 |  | ![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c%23&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Node%2Ejs-339933?style=for-the-badge&logo=node%2Ejs&logoColor=white) |
+
+---
 
 ```python
 # ABOUT ME
