@@ -25,9 +25,6 @@
 | ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) | ![image](https://img.shields.io/badge/Tynker-DD0000?style=for-the-badge&logo=data:res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1464574274/whsf628fmy1db4zjnopw.png/png&logoColor=white) |
 | ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) | ![image](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft%20office&logoColor=white) |
 |  | ![image](https://img.shields.io/badge/Microsoft%20Access-A4374A?style=for-the-badge&logo=microsoft%20access&logoColor=white) |
-|  | ![image](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) |
-|  | ![image](https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) |
-|  | ![image](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white) |
 
 | :seedling: Learning | :thought_balloon: Considering | :coffin: Graveyard |
 | :-----------------: | :---------------------------: | :----------------: |
