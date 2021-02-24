@@ -2,10 +2,9 @@
 ## I'm 15, and am currently doing my GCSEs :crossed_fingers:
 ----------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical&bg_color=60,12B035,06ABD4&title_color=333333&text_color=DDDDDD&icon_color=EEEEEE)
-<br>
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8&bg_color=60,12B035,06ABD4&title_color=333333&text_color=DDDDDD&icon_color=EEEEEE)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8)
+
 
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KennyOliver.KennyOliver) -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
