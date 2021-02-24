@@ -2,19 +2,19 @@
 ## I'm 15, and am currently doing my GCSEs :crossed_fingers:
 ----------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical&bg_color=60,12b035,06abd4&title_color=333333&text_color=dddddd&icon_color=eeeeee)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical&bg_color=60,12B035,06ABD4&title_color=333333&text_color=DDDDDD&icon_color=EEEEEE)
 <br>
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8&bg_color=60,12b035,06abd4&title_color=333333&text_color=dddddd&icon_color=eeeeee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8&bg_color=60,12B035,06ABD4&title_color=333333&text_color=DDDDDD&icon_color=EEEEEE)
 
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KennyOliver.KennyOliver) -->
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
 [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver)
 [![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
 
-[![Website Link](https://img.shields.io/badge/Website-181717?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
-[![Index of Repositories](https://img.shields.io/badge/Index%20of%20Repositories-181717?style=for-the-badge&logo=gitbook&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
-[![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-181717?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
+[![Website Link](https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
+[![Index of Repositories](https://img.shields.io/badge/Index%20of%20Repositories-252525?style=for-the-badge&logo=gitbook&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
+[![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-252525?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
 
 ---
 
