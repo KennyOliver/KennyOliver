@@ -36,13 +36,13 @@
 ```python
 # ABOUT ME
 favorites = {
-  programming_lang: 'Python';
-  markup_lang: 'CSS';
-  app_lang: 'Swift';
-  c_lang: 'C++';
-  color: 'red';
-  food: 'fruit';
-  instrument: 'violin';
+  programming_lang: "Python",
+  markup_lang: "CSS",
+  app_lang: "Swift",
+  c_lang: "C++",
+  color: "red",
+  food: "fruit",
+  instrument: "violin"
 }
 machine = "iPad Pro 2020"
 OS = "iPadOS"
