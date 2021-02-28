@@ -1,4 +1,7 @@
-# Hi, I'm Kenny! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=header&text=Hi,%20I'm%20Kenny!&fontSize=60&animation=fadeIn)
+
+
+<!-- # Hi, I'm Kenny! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 ## I'm 15, and am currently doing my GCSEs :crossed_fingers:
 ----------
 
@@ -48,3 +51,6 @@ machine = "iPad Pro 2020"
 OS = "iPadOS"
 IDE = "Atom + repl.it"
 ```
+
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=90&section=footer)
