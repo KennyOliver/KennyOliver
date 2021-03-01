@@ -53,4 +53,4 @@ IDE = "Atom + repl.it"
 ```
 
 
-![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=90&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=footer)
