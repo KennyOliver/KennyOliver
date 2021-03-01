@@ -33,9 +33,9 @@
 | ![image](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) | ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![image](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) |
 |  | ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![image](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white) |
 
----
+<!-- --- -->
 
-```python
+<!-- ```python
 # ABOUT ME
 favorites = {
   programming_lang: "Python",
@@ -49,7 +49,7 @@ favorites = {
 machine = "iPad Pro 2020"
 OS = "iPadOS"
 IDE = "Atom + repl.it"
-```
+``` -->
 
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=footer)
