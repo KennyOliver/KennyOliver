@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=header&text=Hi,%20I'm%20Kenny!&fontSize=60&animation=fadeIn)
 
 
-<!-- # Hi, I'm Kenny! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
+<!-- # Hi, I'm Kenny! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### I'm 15, and am doing my GCSEs :crossed_fingers:
-----------
+---------- -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8)
