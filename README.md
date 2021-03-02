@@ -19,7 +19,7 @@
 
 ---
 
-Hi! My name is Kenny. I can speak English & Spanish (Intermediate), and I have a passion for computer science.
+Hi! My name is Kenny. I can speak English :uk: & Spanish (Intermediate) :es:, and I have a passion for computer science.
 
 ---
 
