@@ -19,6 +19,10 @@
 
 ---
 
+Hi! My name is Kenny. I can speak English & Spanish (Intermediate), and I have a passion for computer science.
+
+---
+
 | :computer: Languages | :thinking: Other Skills |
 | :------------------: | :---------------------: |
 | ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) |
