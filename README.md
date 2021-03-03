@@ -10,12 +10,13 @@
 
 <!-- ![Visitors](https://visitor-badge.glitch.me/badge?page_id=KennyOliver.KennyOliver) -->
 [![Repos Index](https://img.shields.io/badge/Repos%20Index-252525?style=for-the-badge&logo=gitbook&logoColor=white&link=https://github.com/KennyOliver/repos-index)](https://github.com/KennyOliver/repos-index)
-[![Website Link](https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
+[![Website](https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
 [![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-252525?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
-[![Pinterest Badge](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
-![Visitors](https://komarev.com/ghpvc/?username=KennyOliver&style=flat-square&color=brightgreen)
-<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver) -->
-<!-- [![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver) -->
+[![Pinterest](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
+![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KennyOliver&repo=KennyOliver&label=Visits&countColor=%2355BB00)
+<!-- ![Visitors](https://komarev.com/ghpvc/?username=KennyOliver&style=flat-square&color=brightgreen)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=KennyOliver.KennyOliver)
+[![Github](https://img.shields.io/github/followers/KennyOliver?label=Follow&style=for-the-badge)](https://github.com/KennyOliver) -->
 
 ---
 
