@@ -35,3 +35,4 @@ Hi! My name is Kenny. I can speak English :uk: & Spanish (Intermediate) :es:, an
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=footer)
 
 <!-- devicon.dev for smaller icons -->
+<!-- metrics.lecoq.io for README metrics widgets -->
