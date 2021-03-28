@@ -12,7 +12,8 @@
 
 ---
 
-Hi! My name's Kenny. I can speak English :uk: & Spanish (intermediate) :es:, and I enjoy computer science.
+Hi! My name's Kenny.
+I can speak English (native) :uk: & Spanish (intermediate) :es:, and I enjoy computer science.
 I'm currently doing my GCSEs!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
