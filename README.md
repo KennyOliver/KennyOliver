@@ -6,7 +6,7 @@
 
 [![Repos Index](https://img.shields.io/badge/Repos%20Index-252525?style=for-the-badge&logo=gitbook&logoColor=white&link=https://github.com/KennyOliver/repos-index)](https://github.com/KennyOliver/repos-index)
 [![Website](https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
-[![GitHub Gists](https://img.shields.io/badge/GitHub%20Gists-252525?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
+[![GitHub Gists](https://img.shields.io/badge/Gists-252525?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
 ![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KennyOliver&repo=KennyOliver&label=Visits&labelColor=%23252525&countColor=%2355BB00)
 [![Pinterest](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
 
