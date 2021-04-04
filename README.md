@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=header&text=Hi,%20I'm%20Kenny!&fontSize=60&animation=fadeIn)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical" height="50%" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=4" height="50%" width="50%">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8)
 
 [![Repos Index](https://img.shields.io/badge/Repos%20Index-252525?style=for-the-badge&logo=gitbook&logoColor=white&link=https://github.com/KennyOliver/repos-index)](https://github.com/KennyOliver/repos-index)
 [![Website](https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
