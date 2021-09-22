@@ -2,19 +2,18 @@
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KennyOliver&hide_border=true&theme=radical&layout=compact&langs_count=6)
 
 [![Repos Index](https://img.shields.io/badge/Repos%20Index-252525?style=for-the-badge&logo=gitbook&logoColor=white&link=https://github.com/KennyOliver/repos-index)](https://github.com/KennyOliver/repos-index)
 [![Website](https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io)](https://kennyoliver.github.io)
 [![GitHub Gists](https://img.shields.io/badge/Gists-252525?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io)](https://gist.github.com/KennyOliver)
-![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KennyOliver&repo=KennyOliver&label=Visits&labelColor=%23252525&countColor=%2355BB00)
-[![Pinterest](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive)
+<!-- ![Visitors](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=KennyOliver&repo=KennyOliver&label=Visits&labelColor=%23252525&countColor=%2355BB00) -->
+<!-- [![Pinterest](https://img.shields.io/badge/@KennyTheOlive-BD081C?style=for-the-badge&logo=pinterest&logoColor=white&link=https://www.pinterest.com/KennyTheOlive)](https://www.pinterest.com/KennyTheOlive) -->
 
 ---
 
-Hi! My name's Kenny.
-I can speak English (native) :uk: & Spanish (intermediate) :es:, and I enjoy computer science.
-I'm currently doing my GCSEs!
+Hi! My name's Kenny. I enjoy computer science.
+I'm currently doing my A Levels!
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
