@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=header&text=Hi,%20I'm%20Kenny!&fontSize=60&animation=fadeIn)
+<!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=header&text=Hi,%20I'm%20Kenny!&fontSize=60&animation=fadeIn) -->
 
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KennyOliver&show_icons=true&hide_border=true&theme=radical) -->
@@ -60,7 +60,7 @@ I'm currently doing my A Levels!
 </details>
 -->
 
-![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=90&section=footer) -->
 
 <!-- devicon.dev for smaller icons -->
 <!-- metrics.lecoq.io for README metrics widgets -->
