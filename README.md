@@ -12,7 +12,7 @@
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/Repos%20Index-252525?style=for-the-badge&logo=gitbook&logoColor=white&link=https://github.com/KennyOliver/repos-index" href="https://github.com/KennyOliver/repos-index" /> -->
   <img src="https://img.shields.io/badge/Website-252525?style=for-the-badge&logo=safari&logoColor=white&link=https://kennyoliver.github.io" href="https://kennyoliver.github.io" />
-  <img src="https://img.shields.io/badge/Gists-252525?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://kennyoliver.github.io" href="https://gist.github.com/KennyOliver" />
+  <img src="https://img.shields.io/badge/Gists-252525?style=for-the-badge&logo=codeigniter&logoColor=white&link=https://gist.github.com/KennyOliver" href="https://gist.github.com/KennyOliver" />
 </p>
 
 <!--
