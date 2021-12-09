@@ -1,8 +1,23 @@
 ---
 
-<p align="center">
-  <b>Hi, I'm Kenny. <br/> I'm an A-Level CompSci student.</b>
-</p>
+<h3 align="center">
+  <b>Hi, I'm Kenny — an A-Level CompSci student.</b>
+</h3>
+
+---
+<h3 align="center">
+  <b>My OSS Projects</b>
+</h3>
+
+<div align="center">
+  <a href="https://github.com/KennyOliver/neumorphia.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KennyOliver&repo=neumorphia.css&theme=radical&hide_border=true&border_radius=25" /></a>
+  <a href="https://github.com/KennyOliver/VividHues"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KennyOliver&repo=VividHues&theme=radical&hide_border=true&border_radius=25" /></a>
+</div>
+
+---
+<h3 align="center">
+  <b>I speak...</b>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
