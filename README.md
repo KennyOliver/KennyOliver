@@ -38,4 +38,14 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black&logoColor=2496ED" />
 </p>
 
+<h3 align="center">
+  <b>I deploy with..</b>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-white?style=for-the-badge&logo=vercel&labelColor=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&labelColor=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&labelColor=black&logoColor=00C7B7" />
+</p>
+
 ---
