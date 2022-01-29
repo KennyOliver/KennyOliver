@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="center">
-  <b>I deploy with..</b>
+  <b>I deploy with...</b>
 </h3>
 
 <p align="center">
