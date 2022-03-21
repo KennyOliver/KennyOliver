@@ -37,6 +37,7 @@
   <br/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=black&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Markdown-gray?style=for-the-badge&logo=markdown&labelColor=black&logoColor=gray" />
 </p>
 
 <h3 align="center">
