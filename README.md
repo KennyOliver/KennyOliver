@@ -20,24 +20,38 @@
 </h3>
 
 <p align="center">
+  <br />
+  <span><b>💪 My strengths 💪</b></span>
+  <br /><br />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black&logoColor=w3776ABhite" />
   <img src="https://img.shields.io/badge/Node%2EJS-339933?style=for-the-badge&logo=node%2Ejs&labelColor=black&logoColor=339933" />
   <br />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=black&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&labelColor=black&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=less&labelColor=black&logoColor=1D365D" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&labelColor=black&logoColor=CC6699" />
   <br />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB" />
-  <br />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white" />
-  <br />
+  <br /><br />
+  <span><b>⚒️ Tools ⚒️</b></span>
+  <br /><br />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=black&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Markdown-gray?style=for-the-badge&logo=markdown&labelColor=black&logoColor=gray" />
+  <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&labelColor=black&logoColor=white" />
+  <br /><br />
+  <span><b>👍 I'm familiar with 👍</b></span>
+  <br /><br />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&labelColor=black&logoColor=CC342D" />
+  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white" />
+  <br /><br />
+  <span><b>🌠 I'm planning to learn 🌠</b></span>
+  <br /><br />
+  <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
+  <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&labelColor=black&logoColor=654FF0" />
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next%2EJS-black?style=for-the-badge&logo=next%2Ejs&labelColor=black&logoColor=white" />
 </p>
 
 <h3 align="center">
