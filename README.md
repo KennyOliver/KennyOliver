@@ -41,6 +41,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=black&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&labelColor=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&labelColor=black&logoColor=007ACC" />
 </p>
 
 <h3 align="center">
@@ -61,8 +62,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8" />
   <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&labelColor=black&logoColor=654FF0" />
-  <img src="https://img.shields.io/badge/Mongo%20DB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/TSNode-3178C6?style=for-the-badge&logo=ts%2Dnode&labelColor=black&logoColor=3178C6" />
+  <br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&logoColor=47A248" />
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
   <img src="https://img.shields.io/badge/Next%2EJS-black?style=for-the-badge&logo=next%2Ejs&labelColor=black&logoColor=white" />
 </p>
