@@ -1,6 +1,9 @@
 ---
 
 <h3 align="center">
+  <img src="kenny_logo.png" width="20%" align="center" />
+  <br />
+  <br />
   <b>Hi, I'm Kenny — an A-Level CompSci student.</b>
 </h3>
 
