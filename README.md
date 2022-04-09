@@ -25,7 +25,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black&logoColor=w3776ABhite" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/Node%2EJS-339933?style=for-the-badge&logo=node%2Ejs&labelColor=black&logoColor=339933" />
   <br />
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=black&logoColor=E34F26" />
