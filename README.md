@@ -45,6 +45,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=black&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&labelColor=black&logoColor=4EAA25" />
   <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&labelColor=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&labelColor=black&logo=raspberrypi&logoColor=A22846" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&labelColor=black&logoColor=007ACC" />
 </p>
 
