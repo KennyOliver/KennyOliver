@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
   <img src="https://img.shields.io/badge/Next%2EJS-black?style=for-the-badge&logo=next%2Ejs&labelColor=black&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&labelColor=black&logoColor=430098" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=aws&labelColor=black&logoColor=232F3E" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&labelColor=black&logoColor=FF9900" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black&logoColor=5586A4" />
 </p>
 
