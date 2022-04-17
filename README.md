@@ -63,26 +63,30 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&labelColor=black&logoColor=276DC3" />
 </p>
 
-<h3 align="center">
-  <b>🌠 I'm interested in 🌠</b>
-</h3>
+<details>
+  <summary align="center">
+    <h3 align="center">
+      <b>🌠 I'm interested in 🌠</b>
+    </h3>
+  </summary>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/TSNode-3178C6?style=for-the-badge&logo=ts%2Dnode&labelColor=black&logoColor=3178C6" />
-  <br />
-  <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&labelColor=black&logoColor=654FF0" />
-  <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&labelColor=black&logoColor=007AAC" />
-  <br />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next%2EJS-black?style=for-the-badge&logo=next%2Ejs&labelColor=black&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&labelColor=black&logoColor=430098" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&labelColor=black&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black&logoColor=5586A4" />
-</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8" />
+    <img src="https://img.shields.io/badge/TSNode-3178C6?style=for-the-badge&logo=ts%2Dnode&labelColor=black&logoColor=3178C6" />
+    <br />
+    <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&labelColor=black&logoColor=654FF0" />
+    <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&labelColor=black&logoColor=007AAC" />
+    <br />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&logoColor=47A248" />
+    <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next%2EJS-black?style=for-the-badge&logo=next%2Ejs&labelColor=black&logoColor=white" />
+    <br />
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&labelColor=black&logoColor=430098" />
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&labelColor=black&logoColor=FF9900" />
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black&logoColor=5586A4" />
+  </p>
+</details>
 
 <h3 align="center">
   <b>🚀 I deploy with 🚀</b>
