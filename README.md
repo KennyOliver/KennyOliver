@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
   <br />
   <img src="https://img.shields.io/badge/PyPi-3775A9?style=for-the-badge&logo=pypi&labelColor=black&logoColor=3775A9" />
-  <img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=pypi&labelColor=black&logoColor=FF5C83" />
+  <img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=sparkar&labelColor=black&logoColor=FF5C83" />
 </p>
 
 <h3 align="center">
