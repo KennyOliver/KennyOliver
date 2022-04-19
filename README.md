@@ -48,7 +48,7 @@
   <br />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&labelColor=black&logo=raspberrypi&logoColor=A22846" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/Virtual%20Box-183A61?style=for-the-badge&logo=virtualbox&labelColor=black&logoColor=183A61" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&labelColor=black&logoColor=183A61" />
   <br />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&labelColor=black&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
