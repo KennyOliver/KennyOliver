@@ -48,7 +48,13 @@
   <br />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&labelColor=black&logo=raspberrypi&logoColor=A22846" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624" />
+  <img src="https://img.shields.io/badge/Virtual%20Box-183A61?style=for-the-badge&logo=virtualbox&labelColor=black&logoColor=183A61" />
+  <br />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&labelColor=black&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
+  <br />
+  <img src="https://img.shields.io/badge/PyPi-3775A9?style=for-the-badge&logo=pypi&labelColor=black&logoColor=3775A9" />
+  <img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=pypi&labelColor=black&logoColor=FF5C83" />
 </p>
 
 <h3 align="center">
@@ -85,6 +91,12 @@
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&labelColor=black&logoColor=430098" />
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&labelColor=black&logoColor=FF9900" />
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black&logoColor=5586A4" />
+    <br />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=black&logoColor=326CE5" />
+    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&labelColor=black&logoColor=008080" />
+    <br />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black&logoColor=F24E1E" />
+    <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&labelColor=black&logoColor=white" />
   </p>
 </details>
 
