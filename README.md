@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=black&logoColor=F05032" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&labelColor=black&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&labelColor=black&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyPi-3775A9?style=for-the-badge&logo=pypi&labelColor=black&logoColor=3775A9" />
   <br />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&labelColor=black&logo=raspberrypi&logoColor=A22846" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624" />
@@ -53,8 +53,9 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&labelColor=black&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
   <br />
-  <img src="https://img.shields.io/badge/PyPi-3775A9?style=for-the-badge&logo=pypi&labelColor=black&logoColor=3775A9" />
   <img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=sparkar&labelColor=black&logoColor=FF5C83" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&labelColor=black&logoColor=00C4CC" />
+  <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&labelColor=black&logoColor=white" />
 </p>
 
 <h3 align="center">
