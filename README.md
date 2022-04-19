@@ -91,9 +91,10 @@
     <br />
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&labelColor=black&logoColor=430098" />
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&labelColor=black&logoColor=FF9900" />
-    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black&logoColor=5586A4" />
-    <br />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=black&logoColor=326CE5" />
+    <br />
+    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black&logoColor=5586A4" />
+    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black&logoColor=A8B9CC" />
     <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&labelColor=black&logoColor=008080" />
     <br />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black&logoColor=F24E1E" />
