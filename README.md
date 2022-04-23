@@ -49,13 +49,12 @@
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&labelColor=black&logo=raspberrypi&logoColor=A22846" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&labelColor=black&logoColor=183A61" />
-  <br />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&labelColor=black&logoColor=007ACC" />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
   <br />
   <img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=sparkar&labelColor=black&logoColor=FF5C83" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&labelColor=black&logoColor=00C4CC" />
   <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&labelColor=black&logoColor=white" />
+  <br />
 </p>
 
 <h3 align="center">
@@ -66,8 +65,11 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black&logoColor=00599C" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&labelColor=black&logoColor=CC342D" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=black&logoColor=FFCA28" />
+  <br />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
   <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&labelColor=black&logoColor=276DC3" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&labelColor=black&logoColor=008080" />
 </p>
 
 <details>
@@ -95,10 +97,6 @@
     <br />
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black&logoColor=5586A4" />
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black&logoColor=A8B9CC" />
-    <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&labelColor=black&logoColor=008080" />
-    <br />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&labelColor=black&logoColor=F24E1E" />
-    <img src="https://img.shields.io/badge/Notion-white?style=for-the-badge&logo=notion&labelColor=black&logoColor=white" />
   </p>
 </details>
 
