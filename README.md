@@ -117,7 +117,7 @@
 ---
 
 <div align="center">
-  <img src="Industrial_Cadets_Gold_2021_badge.png" width="150" height="150" align="center" />
+  <img src="Industrial_Cadets_Gold_2021_badge.png" width="120" height="120" align="center" />
 </div>
 
 ---
