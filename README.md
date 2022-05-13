@@ -115,8 +115,8 @@
 </p>
 
 ---
-<a align="center">
+<div align="center">
   <img src="IC_Gold_2021_badge.jpeg" width="150" height="150" align="center" />
-</a>
+</div>
 
 ---
