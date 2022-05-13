@@ -115,3 +115,7 @@
 </p>
 
 ---
+
+<img src="IC_Gold_2021_badge.jpeg" align="center" />
+
+---
