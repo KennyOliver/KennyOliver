@@ -65,6 +65,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black&logoColor=00599C" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black&logoColor=A8B9CC" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&labelColor=black&logoColor=008080" />
   <br />
   <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&labelColor=black&logoColor=CC342D" />
@@ -73,7 +74,6 @@
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
   <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white" />
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&labelColor=black&logoColor=276DC3" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&labelColor=black&logoColor=008080" />
 </p>
 
 <details>
