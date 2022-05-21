@@ -58,11 +58,15 @@
 </p>
 
 <h3 align="center">
-  <b>👍 I'm a bit familiar with 👍</b>
+  <b>🎨 I like to dabble in 🎨</b>
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black&logoColor=A8B9CC" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8" />
+  <br />
+  <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&labelColor=black&logoColor=CC342D" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=black&logoColor=FFCA28" />
   <br />
@@ -81,10 +85,8 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&labelColor=black&logoColor=47848F" />
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8" />
     <img src="https://img.shields.io/badge/TSNode-3178C6?style=for-the-badge&logo=ts%2Dnode&labelColor=black&logoColor=3178C6" />
     <br />
-    <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
     <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&labelColor=black&logoColor=654FF0" />
     <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&labelColor=black&logoColor=007AAC" />
     <br />
@@ -97,7 +99,6 @@
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=black&logoColor=326CE5" />
     <br />
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black&logoColor=5586A4" />
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black&logoColor=A8B9CC" />
   </p>
 </details>
 
