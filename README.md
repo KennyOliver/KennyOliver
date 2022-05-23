@@ -69,8 +69,10 @@
   <br />
   <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&labelColor=black&logoColor=CC342D" />
+  <br />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&labelColor=black&logoColor=DC382D" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=black&logoColor=FFCA28" />
+    <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
   <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white" />
@@ -92,7 +94,6 @@
     <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&labelColor=black&logoColor=007AAC" />
     <br />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&logoColor=47A248" />
-    <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
     <img src="https://img.shields.io/badge/Next%2EJS-black?style=for-the-badge&logo=next%2Ejs&labelColor=black&logoColor=white" />
     <br />
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&labelColor=black&logoColor=430098" />
