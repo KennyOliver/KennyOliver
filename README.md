@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="mern_stack_canva_transparent.png" width="30%" />
+  <img src="MERN_Stack_Logo.png" width="40%" />
 </p>
 
 <h3 align="center">
