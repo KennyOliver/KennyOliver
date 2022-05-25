@@ -20,6 +20,10 @@
 
 ---
 
+<p align="center">
+  <img src="[https://user-images.githubusercontent.com/70860732/170320778-b48fc7bf-9e49-4490-9a32-7f9ca73865c1.png](https://user-images.githubusercontent.com/70860732/170327809-022838a1-f0a7-4f00-a064-d89f841f519f.png)" />
+</p>
+
 <h3 align="center">
   <b>💪 My strengths 💪</b>
 </h3>
@@ -35,6 +39,9 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB" />
+  <br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
 </p>
 
 <h3 align="center">
@@ -69,11 +76,9 @@
   <br />
   <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&labelColor=black&logoColor=CC342D" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&logoColor=47A248" />
   <br />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&labelColor=black&logoColor=DC382D" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=black&logoColor=FFCA28" />
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
   <br />
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
   <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white" />
@@ -90,11 +95,10 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&labelColor=black&logoColor=47848F" />
     <img src="https://img.shields.io/badge/TSNode-3178C6?style=for-the-badge&logo=ts%2Dnode&labelColor=black&logoColor=3178C6" />
+    <img src="https://img.shields.io/badge/Next%2EJS-black?style=for-the-badge&logo=next%2Ejs&labelColor=black&logoColor=white" />
     <br />
     <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&labelColor=black&logoColor=654FF0" />
     <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&labelColor=black&logoColor=007AAC" />
-    <br />
-    <img src="https://img.shields.io/badge/Next%2EJS-black?style=for-the-badge&logo=next%2Ejs&labelColor=black&logoColor=white" />
     <br />
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&labelColor=black&logoColor=430098" />
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&labelColor=black&logoColor=FF9900" />
