@@ -21,7 +21,7 @@
 ---
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/70860732/170327809-022838a1-f0a7-4f00-a064-d89f841f519f.png" />
+  <img src="mern_stack_canva_transparent.png" width="30%" />
 </p>
 
 <h3 align="center">
