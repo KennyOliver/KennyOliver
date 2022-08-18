@@ -24,6 +24,8 @@
   <img src="MERN_Stack_Logo.png" width="40%" />
 </p>
 
+<!--
+
 <h3 align="center">
   <b>💪 My strengths 💪</b>
 </h3>
@@ -123,6 +125,8 @@
 </p>
 
 ---
+
+-->
 
 <div align="center">
   <img src="Industrial_Cadets_Gold_2021_badge.png" width="120" height="120" align="center" />
