@@ -20,9 +20,11 @@
 
 ---
 
+<!--
 <p align="center">
   <img src="MERN_Stack_Logo.png" width="40%" />
 </p>
+-->
 
 <!--
 
