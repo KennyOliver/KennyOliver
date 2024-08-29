@@ -4,7 +4,7 @@
   <img src="kenny_npm_logo.png" width="20%" align="center" />
   <br />
   <br />
-  <b>Hi, I'm Kenny — an A-Level CompSci student.</b>
+  <b>Hi, I'm Kenny — a second year CompSci student.</b>
 </h3>
 
 ---
