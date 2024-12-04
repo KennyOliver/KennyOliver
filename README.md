@@ -60,6 +60,7 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=FFFFFF)
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=FFFFFF)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=FFFFFF)
 ![Wappalyzer](https://img.shields.io/badge/Wappalyzer-4608AD?style=for-the-badge&logo=Wappalyzer&logoColor=FFFFFF)
 
 ### 🗄️ DBMSs & Data
