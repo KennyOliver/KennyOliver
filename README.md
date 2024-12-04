@@ -20,115 +20,60 @@
 
 ---
 
-<!--
-<p align="center">
-  <img src="MERN_Stack_Logo.png" width="40%" />
-</p>
--->
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=Node.js&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFFFFF)
+![Sass](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=000000)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=FFFFFF)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=FFFFFF)
 
-<!--
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=FFFFFF" alt="GNU Bash" />
+![PyPI](https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=PyPI&logoColor=FFFFFF)
+![visualstdio](https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=VSCodium&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry Pi&logoColor=FFFFFF" alt="Raspberry Pi" />
+![micro:bit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-2F61B4?style=for-the-badge&logo=VirtualBox&logoColor=FFFFFF)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=VMware&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=FFFFFF" alt="Spark AR" />
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=FFFFFF)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
 
-<h3 align="center">
-  <b>💪 My strengths 💪</b>
-</h3>
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000000)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=FFFFFF)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=FFFFFF)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&labelColor=black&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/Node%2EJS-339933?style=for-the-badge&logo=node%2Ejs&labelColor=black&logoColor=339933" />
-  <br />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&labelColor=black&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&labelColor=black&logoColor=1572B6" />
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&labelColor=black&logoColor=CC6699" />
-  <br />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&labelColor=black&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB" />
-  <br />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&labelColor=black&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&labelColor=black&logoColor=white" />
-</p>
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=FFFFFF)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=Ruby&logoColor=FFFFFF)
 
-<h3 align="center">
-  <b>⚒️ Tools I use ⚒️</b>
-</h3>
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=Redis&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoColor=FFFFFF)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=FFFFFF)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&labelColor=black&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&labelColor=black&logoColor=4EAA25" />
-  <img src="https://img.shields.io/badge/PyPi-3775A9?style=for-the-badge&logo=pypi&labelColor=black&logoColor=3775A9" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&labelColor=black&logoColor=007ACC" />
-  <br />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&labelColor=black&logo=raspberrypi&logoColor=A22846" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&labelColor=black&logoColor=183A61" />
-  <br />
-  <img src="https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=sparkar&labelColor=black&logoColor=FF5C83" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&labelColor=black&logoColor=00C4CC" />
-  <img src="https://img.shields.io/badge/Markdown-black?style=for-the-badge&logo=markdown&labelColor=black&logoColor=white" />
-  <br />
-</p>
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=FFFFFF" alt="GitHub Pages" />
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=FFFFFF)
+<img src="https://img.shields.io/badge/Google%20Search%20Console-458CF5?style=for-the-badge&logo=Google%20Search%20Console&logoColor=FFFFFF" alt="Google Search Console" />
 
-<h3 align="center">
-  <b>🎨 I like to dabble in 🎨</b>
-</h3>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&labelColor=black&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&labelColor=black&logoColor=A8B9CC" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&labelColor=black&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&labelColor=black&logoColor=008080" />
-  <br />
-  <img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&labelColor=black&logoColor=CC342D" />
-  <br />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&labelColor=black&logoColor=DC382D" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=black&logoColor=FFCA28" />
-  <br />
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&labelColor=black&logoColor=5C2D91" />
-  <img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&labelColor=black&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&labelColor=black&logoColor=276DC3" />
-</p>
 
-<details>
-  <summary align="center">
-    <h3 align="center">
-      <b>🌠 I'm interested in 🌠</b>
-    </h3>
-  </summary>
+<img src="https://img.shields.io/badge/Rust-F57A00?style=for-the-badge&logo=rust&labelColor=black&logoColor=F57A00" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&labelColor=black&logoColor=FFCA28" />
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&labelColor=black&logoColor=47848F" />
-    <img src="https://img.shields.io/badge/TSNode-3178C6?style=for-the-badge&logo=ts%2Dnode&labelColor=black&logoColor=3178C6" />
-    <img src="https://img.shields.io/badge/Next%2EJS-black?style=for-the-badge&logo=next%2Ejs&labelColor=black&logoColor=white" />
-    <br />
-    <img src="https://img.shields.io/badge/WASM-654FF0?style=for-the-badge&logo=webassembly&labelColor=black&logoColor=654FF0" />
-    <img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=for-the-badge&logo=assemblyscript&labelColor=black&logoColor=007AAC" />
-    <br />
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&labelColor=black&logoColor=430098" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&labelColor=black&logoColor=FF9900" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&labelColor=black&logoColor=326CE5" />
-    <br />
-    <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&labelColor=black&logoColor=5586A4" />
-  </p>
-</details>
-
-<h3 align="center">
-  <b>🚀 I deploy with 🚀</b>
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&labelColor=black&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=github&labelColor=black&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&labelColor=black&logoColor=00C7B7" />
-  <br />
-  <img src="https://img.shields.io/badge/Search%20Console-458CF5?style=for-the-badge&logo=googlesearchconsole&labelColor=black&logoColor=458CF5" />
-  <br />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&labelColor=black&logoColor=2496ED" />
-</p>
 
 ---
 
--->
+
 
 <div align="center">
   <img src="Industrial_Cadets_Gold_2021_badge.png" width="120" height="120" align="center" />
