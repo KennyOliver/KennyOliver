@@ -39,6 +39,7 @@
 
 ### XR (AR/MR/VR)
 ![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge&logo=Meta&logoColor=FFFFFF)
+![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus&logoColor=FFFFFF)
 ![Spark AR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=FFFFFF)
 ![SideQuest](https://img.shields.io/badge/SideQuest-101227?style=for-the-badge&logo=SideQuest&logoColor=FFFFFF)
 
@@ -85,6 +86,7 @@
 ### Productivity & Design
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=FFFFFF)
 
 ### Exploring
