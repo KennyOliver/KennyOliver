@@ -92,7 +92,7 @@
 
 ### 🔧 Hardware & IoT
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=FFFFFF)
-![micro:bit](https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=FFFFFF)
+![micro:bit](https://img.shields.io/badge/micro:bit-44CC14?style=for-the-badge&logo=micro:bit&logoColor=FFFFFF)
 
 ### 📄 Documentation
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
