@@ -36,12 +36,14 @@
 ![React Router](https://img.shields.io/badge/React%20Router-CA4245?style=for-the-badge&logo=React%20Router&logoColor=FFFFFF)
 ![Sass](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=Sass&logoColor=FFFFFF)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS Modules](https://img.shields.io/badge/CSS%20Modules-000000?style=for-the-badge&logo=CSS%20Modules&logoColor=FFFFFF)
 
 ### 🥽 XR &mdash; AR &middot; MR &middot; VR
 ![Meta Quest](https://img.shields.io/badge/Meta%20Quest-0467DF?style=for-the-badge&logo=Meta&logoColor=FFFFFF)
 ![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus&logoColor=FFFFFF)
 ![Spark AR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=FFFFFF)
 ![SideQuest](https://img.shields.io/badge/SideQuest-101227?style=for-the-badge&logo=SideQuest&logoColor=FFFFFF)
+![Google Cardboard](https://img.shields.io/badge/Google%20Cardboard-FF7143?style=for-the-badge&logo=Google%20Cardboard&logoColor=000000)
 
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
@@ -51,6 +53,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=FFFFFF)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=000000)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=FFFFFF)
 ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=Yarn&logoColor=FFFFFF)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
@@ -62,6 +65,10 @@
 ![Zsh](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=FFFFFF)
 ![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=FFFFFF)
 ![Wappalyzer](https://img.shields.io/badge/Wappalyzer-4608AD?style=for-the-badge&logo=Wappalyzer&logoColor=FFFFFF)
+![Arc](https://img.shields.io/badge/Arc-FCBFBD?style=for-the-badge&logo=Arc&logoColor=000000)
+![Safari](https://img.shields.io/badge/Safari-006CFF?style=for-the-badge&logo=Safari&logoColor=FFFFFF)
+![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
+![VLC Media Player](https://img.shields.io/badge/VLC%20media%20player-FF8800?style=for-the-badge&logo=VLC%20media%20player&logoColor=000000)
 
 ### 🗄️ DBMSs & Data
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=000000)
@@ -70,8 +77,12 @@
 ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=XML&logoColor=FFFFFF)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=000000)
+![JPEG](https://img.shields.io/badge/JPEG-8A8A8A?style=for-the-badge&logo=JPEG&logoColor=FFFFFF)
+![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=SVG&logoColor=000000)
 
 ### 🚀 Deployment & Cloud
+![.ENV](https://img.shields.io/badge/%2EENV-ECD53F?style=for-the-badge&logo=%2EENV&logoColor=000000)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=FFFFFF)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=FFFFFF)
@@ -95,6 +106,7 @@
 ![micro:bit](https://img.shields.io/badge/micro:bit-44CC14?style=for-the-badge&logo=micro:bit&logoColor=FFFFFF)
 
 ### 📄 Documentation
+![Docusaurus](https://img.shields.io/badge/Docusaurus-3ECC5F?style=for-the-badge&logo=Docusaurus&logoColor=FFFFFF)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=FFFFFF)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=FFFFFF)
 
