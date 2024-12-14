@@ -43,7 +43,7 @@
 ![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=Oculus&logoColor=FFFFFF)
 ![Spark AR](https://img.shields.io/badge/Spark%20AR-FF5C83?style=for-the-badge&logo=Spark%20AR&logoColor=FFFFFF)
 ![SideQuest](https://img.shields.io/badge/SideQuest-101227?style=for-the-badge&logo=SideQuest&logoColor=FFFFFF)
-![Google Cardboard](https://img.shields.io/badge/Google%20Cardboard-FF7143?style=for-the-badge&logo=Google%20Cardboard&logoColor=000000)
+![Google Cardboard](https://img.shields.io/badge/Google%20Cardboard-FF7143?style=for-the-badge&logo=Google%20Cardboard&logoColor=FFFFFF)
 
 ### 🛠️ Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
@@ -68,7 +68,7 @@
 ![Arc](https://img.shields.io/badge/Arc-FCBFBD?style=for-the-badge&logo=Arc&logoColor=000000)
 ![Safari](https://img.shields.io/badge/Safari-006CFF?style=for-the-badge&logo=Safari&logoColor=FFFFFF)
 ![Google Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google%20Chrome&logoColor=FFFFFF)
-![VLC Media Player](https://img.shields.io/badge/VLC%20media%20player-FF8800?style=for-the-badge&logo=VLC%20media%20player&logoColor=000000)
+![VLC Media Player](https://img.shields.io/badge/VLC%20media%20player-FF8800?style=for-the-badge&logo=VLC%20media%20player&logoColor=FFFFFF)
 
 ### 🗄️ DBMSs & Data
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=000000)
@@ -77,7 +77,7 @@
 ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=JSON)
 ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
 ![XML](https://img.shields.io/badge/XML-005FAD?style=for-the-badge&logo=XML&logoColor=FFFFFF)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=000000)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=FFFFFF)
 ![JPEG](https://img.shields.io/badge/JPEG-8A8A8A?style=for-the-badge&logo=JPEG&logoColor=FFFFFF)
 ![SVG](https://img.shields.io/badge/SVG-FFB13B?style=for-the-badge&logo=SVG&logoColor=000000)
 
@@ -112,7 +112,7 @@
 
 ### 🗓️ Productivity & Design
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23FFFFFF.svg?style=for-the-badge&logo=notion&logoColor=000000)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=FFFFFF)
 
