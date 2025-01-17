@@ -14,9 +14,11 @@
 </h3>
 
 <div align="center">
-  <a href="https://github.com/KennyOliver/FlavorLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KennyOliver&repo=FlavorLang&theme=radical&hide_border=true&border_radius=25" width="32%" /></a>
-  <a href="https://github.com/KennyOliver/neumorphia.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KennyOliver&repo=neumorphia.css&theme=radical&hide_border=true&border_radius=25" width="32%" /></a>
-  <a href="https://github.com/KennyOliver/VividHues"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KennyOliver&repo=VividHues&theme=radical&hide_border=true&border_radius=25" width="32%" /></a>
+  <a href="https://github.com/KennyOliver/neumorphia.css"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KennyOliver&repo=neumorphia.css&theme=radical&hide_border=true&border_radius=25" /></a>
+  <a href="https://github.com/KennyOliver/VividHues"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KennyOliver&repo=VividHues&theme=radical&hide_border=true&border_radius=25" />
+  <br>
+  <a href="https://github.com/KennyOliver/FlavorLang"><img src="https://github-readme-stats.vercel.app/api/pin/?username=KennyOliver&repo=FlavorLang&theme=radical&hide_border=true&border_radius=25" /></a>
+  </a>
 </div>
 
 ---
