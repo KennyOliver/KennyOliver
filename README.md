@@ -1,4 +1,5 @@
 ---
+
 <h3 align="center">
   <a href="https://kennyo.tech">
     <img src="kenny_logo.png" width="20%" align="center" />
@@ -13,3 +14,5 @@
     <a href="https://linkedin.com/in/kennysoiii">/in/kennysoiii</a>
   </b>
 </h3>
+
+---
